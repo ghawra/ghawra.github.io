@@ -1,1 +1,3 @@
-# ghawra.github.io
+theme: jekyll-theme-minimal
+title: ghawra's homepage
+description: woy
